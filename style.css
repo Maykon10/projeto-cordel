@@ -78,13 +78,13 @@ section {
 }
 
 section#s1 {
-    background: url(imagens/background001.jpg) right center no-repeat fixed;
+    background: url(imagens/background001.jpg) right center fixed;
     background-size: cover;
 }
 
 section#s2 {
-    background: url(imagens/background002.jpg) left center no-repeat fixed;
-    background-size: 150%;
+    background: url(imagens/background002.jpg) left center fixed;
+    background-size: cover;
 }
 
 section > p {
